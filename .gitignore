@@ -1,0 +1,17 @@
+# Utils
+*.env**
+
+# Backend
+backend/node_modules/
+
+# Frontend
+pankkiautomaatti_frontend/build/
+pankkiautomaatti_frontend/*.user
+
+#Builds
+build-*
+pankkiautomaatti_frontend/build-*
+
+.DS_Store
+backend/database.js
+backend/routes/login.js
